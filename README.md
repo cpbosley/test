@@ -1,4 +1,4 @@
 test
 ====
 How do you open the "readme" file?
-Readme fiel is empyt except what I put into it.
+Readme fiel is empty except (corrected misspell) what I put into it.
